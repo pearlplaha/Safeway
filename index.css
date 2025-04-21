@@ -1,9 +1,14 @@
 html {
+  height:100%;
+  width:100%;
   background-color:#fff;
 }
 
 .on_visit {
+  height:40px;
+  width:100%;
   background-color:#232323;
+  font-family:"Lucida Console", "Courier New", monospace;
   color:#fff;
   display:flex;
 }
