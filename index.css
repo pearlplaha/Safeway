@@ -1,5 +1,5 @@
 html {
-  background-color: #ffffff;
+  background-color:#232323;
   height: 100%;
   max-width: 100%;
 }
@@ -9,14 +9,14 @@ on_visit {
   width: 100%;
   margin: 10px;
   background-color:#000;
+  colour:#fff;
   display: flex;
   align-items: center;
 }
 
 h3 {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Segoe UI light", Segoe, sans-serif;
   font-colour:#fff;
   font-size: 48px;
   font-weight: 800px;
 }
-  
