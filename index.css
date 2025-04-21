@@ -12,5 +12,13 @@ html {
   font-size:40px;
   color:#fff;
   display:flex;
+  z-index: 1000;
   align-items:center;
+  marquee-gap: 8px;
+}
+
+.wrapped {
+   display: flex;
+  width: max-content;
+  animation: mk-marquee-scroll 10s linear infinite;
 }
