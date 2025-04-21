@@ -4,3 +4,19 @@ html {
   max-width: 100%;
 }
 
+on_visit {
+  height: 80px;
+  width: 100%;
+  margin: 10px;
+  color: #00;
+  display: flex;
+  align-items: center;
+}
+
+h3 {
+  font-family: ariel;
+  font-colour: #ff;
+  font-size: 48px;
+  font-weight: 800px;
+}
+  
