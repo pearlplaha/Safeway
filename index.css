@@ -1,5 +1,5 @@
 html {
-  background-color:#232323;
+  background-color:#fff;
   height: 100%;
   max-width: 100%;
 }
@@ -16,7 +16,6 @@ on_visit {
 
 h3 {
   font-family: "Segoe UI light", Segoe, sans-serif;
-  font-colour:#fff;
   font-size: 48px;
   font-weight: 800px;
 }
