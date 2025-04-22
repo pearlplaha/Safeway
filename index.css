@@ -18,7 +18,7 @@ html {
 }
 
 .wrapped {
-   display: flex;
+  display: flex;
   width: max-content;
-  animation: mk-marquee-scroll 10s linear infinite;
+  animation: marquee-scroll 10s linear infinite;
 }
